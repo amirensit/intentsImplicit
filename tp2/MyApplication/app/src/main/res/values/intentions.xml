@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="intents">
+
+        <item>Appeler Dial</item>
+        <item>Appeler Call</item>
+
+
+    </string-array>
+    
+</resources>
